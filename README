@@ -14,6 +14,12 @@ http://onehackoranother.com/projects/jquery/tipsy
 
 == SOURCE:
 
+== NPM INSTALL
+
+Install package using NPM
+
+`npm i @annadante/angularjs-tipsy`
+
 Hosted at GitHub; browse at:
 
   http://github.com/jaz303/tipsy/tree/master
